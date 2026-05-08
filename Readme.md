@@ -1,2 +1,3 @@
-#this the file of Homedecor website
+# This the file of Homedecor website
+<br>
 Author - Chirag Varma
